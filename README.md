@@ -41,6 +41,3 @@ To use dependency injection in a proficient way, the provider `BindingResolution
 
 ## 🚀 About Me
 Phuc Nguyen - A fullstack software engineer who sometime make simple things complicated in a beautiful approach
-
-## Acknowledgements
-- [Hexagonal Architecture by Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)
